@@ -28,4 +28,5 @@ export class StudentService {
   updatedAllStudent(student){
     return (this.students=student)
   }
+  update
 }
